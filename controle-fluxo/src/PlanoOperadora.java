@@ -1,6 +1,5 @@
 public class PlanoOperadora {
     public static void main(String[] args) {
-        String plano = "MIDIA";
 
         String plano = "M"; // M / T
 
